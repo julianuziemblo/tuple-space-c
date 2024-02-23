@@ -1,0 +1,6 @@
+# infile for master app
+# opis zasobow
+
+# po wlaczeniu
+
+# koniec symulacji

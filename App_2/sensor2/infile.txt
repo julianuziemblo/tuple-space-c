@@ -1,0 +1,21 @@
+# infile for server1
+# opis zasobow
++ pButton,status,D7
+# po wlaczeniu
+: 0, pButton, 0
+: 14000000, pButton, 1
+: 32000000, pButton, 0
+: 53000000, pButton, 1
+: 120000000, pButton, 0
+: 180000000, pButton, 1
+: 210000000, pButton, 0
+: 270000000, pButton, 1
+: 300000000, pButton, 0
+: 360000000, pButton, 1
+: 390000000, pButton, 0
+: 450000000, pButton, 1
+: 480000000, pButton, 0
+: 540000000, pButton, 1
+: 900000000, pButton, 0
+: 1000000000, pButton, 1
+# koniec symulacji

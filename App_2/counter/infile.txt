@@ -1,0 +1,4 @@
+# infile for server1
+# opis zasobow
+# po wlaczeniu
+# koniec symulacji
