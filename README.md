@@ -2,7 +2,7 @@
 A simple implementation of a Tuple Space binary protocol for interactions between different applications.
 
 ## Contents
-- `Server`: folder with the tuple space server implementation (written in C for Linux). It's the main tool for prociding the interactivity between different independent apps.
+- `Server`: the tuple space server implementation (written in C for Linux). It's the main tool for prociding the interactivity between different independent apps.
 - `App_1` and `App_2`: simple example IoT apps for Arduino nodes, demonstrating example workflows using the server as a middleware.
 
 ## Description
