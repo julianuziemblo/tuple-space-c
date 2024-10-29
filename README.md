@@ -1,5 +1,5 @@
 # Tuple Space in C
-A simple implementation of a Tuple Space binary protocol for interactions between different applications.
+A simple custom implementation of a Tuple Space binary protocol for interactions between different applications.
 
 ## Contents
 - `Server`: the tuple space server implementation (written in C for Linux). It's the main tool for prociding the interactivity between different independent apps.
